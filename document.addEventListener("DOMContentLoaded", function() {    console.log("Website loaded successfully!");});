@@ -1,0 +1,16 @@
+outrec-lab/
+│── index.html
+│── about.html
+│── facilities.html
+│── programs.html
+│── research.html
+│── news.html
+│── contact.html
+│── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── responsive.css
+│   ├── images/
+│   ├── js/
+│   │   ├── main.js
+│── README.md
